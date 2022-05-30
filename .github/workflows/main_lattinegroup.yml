@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'LattineGroup'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_693BF00A237C42C1A5859660CB159ABE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08D80C7913A645C98017EE2CA8E82062 }}
           package: .
